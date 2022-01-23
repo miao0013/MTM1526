@@ -1,6 +1,8 @@
-let x = 15;
-let y = 5;
+let a = 3;
+let b = 5;
+let c = null;
 
+console.log('a + b');
 /*
 // concatinating using operator +
 console.log('x = 15, y = 5');
@@ -10,9 +12,26 @@ console.log('x * y = ' + (x * y)); // 75
 console.log('x / y = ' + (x / y)); // 3
 console.log('x % y = ' + (x % y)); // 0
 */
+alert( "description of alerted_value: " );
+/*
+a + b
+a - b
+a * b
+a / b
+a % b
+a += b
+a -= b
+a *= b
+a /= b
+a %= b
+a == b
+a != b
+a > b
+a < b
+!a && !c 
+!a || !c 
+*/
 
-// interpolating variables into string
-console.log(`x = 15, y = 5`);
-console.log(`x + y = ${(x + y)}`); // 20
+
 
 alert('Hello from JavaScript file!');
