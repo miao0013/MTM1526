@@ -2,7 +2,7 @@ let a = 3;
 let b = 5;
 let c = null;
 
-alert(a+b)
+alert(a+b);
 /*
 // concatinating using operator +
 console.log('x = 15, y = 5');
@@ -32,6 +32,3 @@ a < b
 !a || !c 
 */
 
-
-
-alert('Hello from JavaScript file!');
